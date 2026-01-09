@@ -1,0 +1,9 @@
+Cenario 1:
+
+- Problema esta no fato de ter menos
+sections do que threads disponiveis;
+
+Cenario 2:
+
+- Mais sectiosn que threads, a cada execucao vai 
+variar a thread usada por cada seciton

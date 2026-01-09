@@ -1,0 +1,1 @@
+Problema esta no fato de termo 4 threads e 2 sessoes! As 2 threads irao ficar paradas.
